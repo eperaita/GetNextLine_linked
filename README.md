@@ -1,4 +1,4 @@
 # GetNextLine_linked
 Get_Next_Line_bonus with inner linked list
 
-Coded by lugonzal && eperaita 
+Coded by lugonzalg && eperaita 
